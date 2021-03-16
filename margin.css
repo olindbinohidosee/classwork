@@ -1,0 +1,36 @@
+header{
+	border:2.5px solid red ; 
+	min-height: 150px;
+	background-color: purple;
+	
+}
+.wrapper{
+	overflow: hidden;
+}
+.content{
+   min-height: 150px;
+   width: 21%;
+   float: left;
+  
+
+}
+.c1{
+	background-color: red;
+	padding: 2%;
+}
+.c2{
+	background-color: gray;
+	padding: 2%;
+}
+.c3{
+	background-color: yellow;
+	padding: 2%;
+}
+.c4{
+	background-color: silver;
+	padding: 2%;
+}
+footer{
+	min-height: 150px;
+	background-color: purple;
+}
